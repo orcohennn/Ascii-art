@@ -4,7 +4,7 @@ ASCII Art Generator is a command-line program written in Java that converts imag
 
 ## Media
 <img src="readme_files/cat.jpeg" alt="Description of Image" width="300" height="300">
-<img src="readme_files/Ascii_cat.png" alt="Description of Image" width="200" height="300">
+<img src="readme_files/Ascii_cat.png" alt="Description of Image" width="400" height="300">
 
 
 ## Features
